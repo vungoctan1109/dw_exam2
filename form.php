@@ -27,7 +27,6 @@
         <p>
             <label><b>Student Email</b></label>
             <input class="w3-input w3-border w3-round" name="email" type="text"></p>
-        </p>
         <p>
             <label><b>Student Telephone</b></label>
             <input class="w3-input w3-border w3-round" name="phone" type="number"></p>
